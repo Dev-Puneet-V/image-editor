@@ -56,7 +56,7 @@ This is a simple image search and editing tool built using **React**, **Fiber.js
 
 ## Links
 
-- [Codesandbox](https://codesandbox.io/p/github/Dev-Puneet-V/image-editor/draft/gallant-hawking?import=true)
+- [Codesandbox](https://codesandbox.io/p/github/Dev-Puneet-V/image-editor/main)
 - [Architecture](https://excalidraw.com/#json=i-IdIGQXFbh8vOzpQ8B7X,LMshbovogOEDDPE5bpZHxQ)
 - [Working link](https://image-editor-ivory-five.vercel.app/)
 - [Setup and demo](https://www.loom.com/share/ed2d6cf4ed88407d949fae31e5503b49?sid=ec8b90b0-75c8-4d7f-a12b-1d8250e01f8b)
